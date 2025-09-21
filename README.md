@@ -18,7 +18,7 @@ This project demonstrates the use of Linear Regression for educational predictio
 
 🛠️ Tech Stack
 
-Python
+Python 
 
 Pandas, NumPy (Data Handling)
 
